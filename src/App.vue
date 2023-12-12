@@ -130,12 +130,12 @@ export default {
           "mech": "Scarlet Judicator"
         },
         {
-          "callsign": "Badlands",
-          "alias": "Marlene Gatsby",
-          "code": "98ca9616-044e-4f87-b89b-aae4eb3387ec///NDL-C-DEEP-STATION//6f572259-6946-41bf-931a-e0543709e892",
+          "callsign": "Javelin",
+          "alias": "Micah Barnett",
+          "code": "ca805f00-462a-49fe-a43f-aa2f445306e3//NDL-C-IRON-VOID//5023-12-12T22:25:10.984Z",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Mayfly"
+          "frame": "Zhumulangma",
+          "mech": "Javelin"
         },
         {
           "callsign": "Compadre",
