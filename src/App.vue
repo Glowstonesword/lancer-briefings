@@ -94,13 +94,13 @@ export default {
       "events": "",
       "missions": [
         {
-          "slug": "001",
-          "name": "Bug-Hunt",
+          "slug": "000",
+          "name": "Call To Arms",
           "status": "start"
         },
         {
-          "slug": "002",
-          "name": "Bug-Hunt",
+          "slug": "001",
+          "name": "N/a",
           "status": "start"
         },
       ],
