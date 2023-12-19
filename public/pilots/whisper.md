@@ -61,4 +61,4 @@ Approach with an offer of alliance when dealing with portal-related threats.
 
 Exercise caution; subject is unpredictable when confronted with Burning Gate entities.
 
-End of Dossier.
+*End of Dossier.*
