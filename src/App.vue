@@ -139,7 +139,7 @@ export default {
         },
         {
           "callsign": "Whisper",
-          "alias": "Jack, BG-001",
+          "alias": "BG-001",
           "code": "db4cae2e-61bc-4c0c-bd62-29d950819ae3//NDL-C-NULL-HELIX//5023-12-19T16:51:11.508Z",
           "corpro": "GMS",
           "frame": "XV",
