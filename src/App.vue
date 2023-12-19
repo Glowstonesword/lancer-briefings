@@ -138,12 +138,12 @@ export default {
           "mech": "Javelin"
         },
         {
-          "callsign": "Compadre",
-          "alias": 'Clint "CC" Cruz',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
+          "callsign": "Whisper",
+          "alias": "Jack, BG-001",
+          "code": "db4cae2e-61bc-4c0c-bd62-29d950819ae3//NDL-C-NULL-HELIX//5023-12-19T16:51:11.508Z",
           "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Rio Bravo"
+          "frame": "XV",
+          "mech": "Zenith"
         },
       ],
       "header": {
