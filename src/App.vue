@@ -121,6 +121,22 @@ export default {
           "frame": "XV",
           "mech": "Zenith"
         },
+        {
+          "callsign": "Corvus",
+          "alias": "Odin Galant",
+          "code": "e9a2714f-415e-49c8-8b3f-a3498575b216//NDL-C-BLACK-ORBIT//5024-01-13T04:33:56.211Z",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Solemn Raven"
+        },
+        {
+          "callsign": "Mittens",
+          "alias": "Katzen Scanagatta",
+          "code": "dbcbfa9f-0f51-4cfa-9f63-fc85f1d3cb28//NDL-C-NULL-CRYPT//ERROR-BIOMETRIC-INCOMPATIBLE",
+          "corpro": "SSC",
+          "frame": "Mimic White",
+          "mech": "Sombra"
+        },
       ],
       "header": {
         "planet": "The Scrapyard",
