@@ -137,6 +137,14 @@ export default {
           "frame": "Mimic White",
           "mech": "Sombra"
         },
+        {
+          "callsign": "Echo",
+          "alias": "Kirche Albedo",
+          "code": "71e9012f-7ea8-4579-a5d6-993607357240//NDL-C-THIRD-CUT//5024-01-19T10:18:18.369Z",
+          "corpro": "HORUS",
+          "frame": "Imp",
+          "mech": "Lucius"
+        },
       ],
       "header": {
         "planet": "The Scrapyard",
