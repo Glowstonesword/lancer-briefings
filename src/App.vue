@@ -89,8 +89,8 @@ export default {
 
   data() {
     return {
-      "mission_slug": "000",
-      "current_md": "002",
+      "mission_slug": "002",
+      "current_md": "",
       "events": "",
       "missions": [
         {
@@ -107,6 +107,7 @@ export default {
           "slug": "002",
           "name": "Temporary Intercorporate Relation Managers",
           "status": "start"
+        },
       ],
       "pilots": [
         {
