@@ -101,7 +101,7 @@ export default {
         {
           "slug": "001",
           "name": "The Hungry Maw",
-          "status": "succeess"
+          "status": "success"
         },
         {
           "slug": "002",
