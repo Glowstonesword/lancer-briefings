@@ -89,20 +89,24 @@ export default {
 
   data() {
     return {
-      "mission_slug": "000",
+      "mission_slug": "002",
       "current_md": "",
       "events": "",
       "missions": [
         {
           "slug": "000",
           "name": "Call To Arms",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "001",
-          "name": "N/a",
-          "status": "start"
+          "name": "The Hungry Maw",
+          "status": "succeess"
         },
+        {
+          "slug": "002",
+          "name": "Temporary Intercorporate Relation Managers",
+          "status": "start"
       ],
       "pilots": [
         {
