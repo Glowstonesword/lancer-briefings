@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "003",
+      "mission_slug": "004",
       "current_md": "",
       "events": "",
       "missions": [
@@ -111,6 +111,11 @@ export default {
         {
           "slug": "003",
           "name": "The Biggest Catch",
+          "status": "success"
+        },
+        {
+          "slug": "004",
+          "name": "Needle In A Haystack",
           "status": "start"
         },
       ],
