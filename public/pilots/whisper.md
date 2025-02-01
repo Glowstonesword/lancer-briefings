@@ -1,3 +1,4 @@
+# BIO:
 **Identification Code:** BG-001
 
 **Classification:** Independent Operative
@@ -62,3 +63,9 @@ Approach with an offer of alliance when dealing with portal-related threats.
 Exercise caution; subject is unpredictable when confronted with Burning Gate entities.
 
 *End of Dossier.*
+
+
+
+# HANGAR:
+- GMS XV 'Zenith'
+- HA Barbarossa 'Heaven or High Water'
