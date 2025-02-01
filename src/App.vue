@@ -89,7 +89,7 @@ export default {
 
   data() {
     return {
-      "mission_slug": "004",
+      "mission_slug": "006",
       "current_md": "",
       "events": "",
       "missions": [
@@ -100,7 +100,7 @@ export default {
         },
         {
           "slug": "001",
-          "name": "The Hungry Maw",
+          "name": "Of Maws And Men",
           "status": "success"
         },
         {
@@ -116,7 +116,42 @@ export default {
         {
           "slug": "004",
           "name": "Needle In A Haystack",
-          "status": "start"
+          "status": "success"
+        },
+        {
+          "slug": "005",
+          "name": "Big Game Hunting",
+          "status": "success"
+        },
+        {
+          "slug": "LW-KS.1",
+          "name": "Curiosity",
+          "status": "success"
+        },
+        {
+          "slug": "LW-OG.1",
+          "name": "Value Of Your Word",
+          "status": "success"
+        },
+        {
+          "slug": "LW-JW.1",
+          "name": "Under The Cover Of Night",
+          "status": "success"
+        },
+        {
+          "slug": "LW-KA.1",
+          "name": "It's In The Walls",
+          "status": "success"
+        },
+        {
+          "slug": "LW-MB.1",
+          "name": "Gods And Men",
+          "status": "partial-success"
+        },
+        {
+          "slug": "006",
+          "name": "Light In The Deep",
+          "status": "success"
         },
       ],
       "pilots": [
@@ -124,53 +159,53 @@ export default {
           "callsign": "Javelin",
           "alias": "Micah Barnett",
           "code": "ca805f00-462a-49fe-a43f-aa2f445306e3//NDL-C-IRON-VOID//5023-12-12T22:25:10.984Z",
-          "corpro": "GMS",
-          "frame": "Zhumulangma",
-          "mech": "Javelin"
+          "corpro": "IPS-N",
+          "frame": "Endeavour",
+          "mech": "Ironhawk"
         },
         {
           "callsign": "Whisper",
           "alias": "BG-001",
           "code": "db4cae2e-61bc-4c0c-bd62-29d950819ae3//NDL-C-NULL-HELIX//5023-12-19T16:51:11.508Z",
-          "corpro": "GMS",
-          "frame": "XV",
-          "mech": "Zenith"
+          "corpro": "HA",
+          "frame": "Barbarossa",
+          "mech": "Heaven or High Water"
         },
         {
           "callsign": "Corvus",
           "alias": "Odin Galant",
           "code": "e9a2714f-415e-49c8-8b3f-a3498575b216//NDL-C-BLACK-ORBIT//5024-01-13T04:33:56.211Z",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Solemn Raven"
+          "corpro": "IPS-N",
+          "frame": "Blackbeard",
+          "mech": "Old Crow"
         },
         {
           "callsign": "Mittens",
           "alias": "Katzen Scanagatta",
           "code": "dbcbfa9f-0f51-4cfa-9f63-fc85f1d3cb28//NDL-C-NULL-CRYPT//ERROR-BIOMETRIC-INCOMPATIBLE",
-          "corpro": "SSC",
-          "frame": "Mimic White",
-          "mech": "Sombra"
+          "corpro": "IPS-N",
+          "frame": "Pillbug",
+          "mech": "Cyrus"
         },
         {
           "callsign": "Echo",
           "alias": "Kirche Albedo",
           "code": "71e9012f-7ea8-4579-a5d6-993607357240//NDL-C-THIRD-CUT//5024-01-19T10:18:18.369Z",
           "corpro": "HORUS",
-          "frame": "Imp",
-          "mech": "Lucius"
+          "frame": "Goblin",
+          "mech": "Adamic"
         },
       ],
       "header": {
         "planet": "The Scrapyard",
-        "year": "5021u",
+        "year": "5022u",
         "system": "Exxor-7",
         "gate": "Prometheus-Serpentis",
         "ring": "Prometheus-Line",
-        "headerTitle": "Unaffiliated",
-        "headerSubtitle": "Ragtag Group",
-        "subheaderTitle": "ERROR",
-        "subheaderSubtitle": "Designation Not Found",
+        "headerTitle": "Flock Of Iron",
+        "headerSubtitle": "Mercenary Company",
+        "subheaderTitle": "First-Contact Fireteam",
+        "subheaderSubtitle": "Albatross",
       },
       "options":{
         "eventsMarkdownPerMission": true
