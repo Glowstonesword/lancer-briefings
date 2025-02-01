@@ -67,5 +67,5 @@ Exercise caution; subject is unpredictable when confronted with Burning Gate ent
 
 
 # HANGAR:
-- GMS XV 'Zenith'
+- GMS XV 'In Sickness or In Hell'
 - HA Barbarossa 'Heaven or High Water'
