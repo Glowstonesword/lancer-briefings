@@ -4,8 +4,8 @@
 - Exploration / Open Combat
 
 # Modifiers
-- N/a
-
+- Lone Wolf
+- 
 # Goals
 - Identify and obtain information about the vial of paracausal material recently obtained
 - Locate possible facilities related to the vial
