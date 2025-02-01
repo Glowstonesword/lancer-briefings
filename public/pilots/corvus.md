@@ -11,10 +11,10 @@ Some Lancers are very stubborn.
 
 
 
-HANGAR:
+# HANGAR:
 
-GMS Everest 'Solemn Raven'
+- GMS Everest 'Solemn Raven'
 
-IPS-N Blackbeard 'Old Crow'
+- IPS-N Blackbeard 'Old Crow'
 
-IPS-N Empakaai
+- IPS-N Empakaai
