@@ -5,3 +5,10 @@ Maybe it was their own desperation for cash that drove them to take the job. May
 Odin Galant should be dead. Most records already state him as such.
 
 Some Lancers are very stubborn.
+
+
+
+HANGAR:
+GMS Everest 'Solemn Raven'
+IPS-N Blackbeard 'Old Crow'
+IPS-N Empakaai
