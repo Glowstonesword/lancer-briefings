@@ -5,6 +5,7 @@
 - Priority Target Elimination
 
 # Modifiers
+- Lone Wolf
 - N̸̨͖͆͗/̴̘͌̈́ă̶̛̘
 
 # Goals
