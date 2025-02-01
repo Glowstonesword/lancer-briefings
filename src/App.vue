@@ -136,7 +136,7 @@ export default {
         {
           "slug": "LW-JW.1",
           "name": "Under The Cover Of Night",
-          "status": "success"
+          "status": "partial-success"
         },
         {
           "slug": "LW-KA.1",
