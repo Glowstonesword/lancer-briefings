@@ -6,6 +6,7 @@
 # Modifiers
 - ENVIRONMENT: Simulated
 - HOSILITY: Live-Fire Training
+- Lone Wolf
 
 # Goals
 - Find the location of DELTA, and the HORUS Goblin body they are inhabiting
